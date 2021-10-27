@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning PYTHON,JAVA and C languages. 
 - 💞️ I’m looking to collaborate on programmers.
-- 📫 How to reach me by mail.. POLAMARASETTIDURGARAO00007@GMAIL.COM
+- 📫 How to reach me by mail.. polamarasettidurgarao00008@gmail.com
 
 <!---
 polamarasettiDurgarao/polamarasettiDurgarao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
